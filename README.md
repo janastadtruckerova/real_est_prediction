@@ -1,7 +1,7 @@
 
 ---
 
-# Predikcia Nehnuteľností - Predikcia Ceny Nehnuteľností
+# Predikcia Cien Nehnuteľností
 
 ## Popis projektu
 
